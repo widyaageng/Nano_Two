@@ -1,0 +1,6 @@
+# Ignore following folders
+data/
+
+# Ignore following files
+model_scratch.pt
+model_transfer.pt
